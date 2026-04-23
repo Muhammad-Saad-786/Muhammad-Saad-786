@@ -6,8 +6,13 @@
   Hi 👋, I'm Muhammad Saad
 </h1>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;AI+%7C+RAG+Systems+Builder;Full+Stack+Engineer;Building+Scalable+SaaS+Apps&center=true&width=500&height=45">
+</p>
+<p align="center">
+  🌐 Portfolio: <a href="https://www.saadasim.me">www.saadasim.me</a>
 </p>
 
 ---
@@ -51,30 +56,71 @@
    </p>
 <br/>
 
-### 🚀 Featured Project — Nexus AI
+<br/>
+### 🚀 Featured Projects
 
-> 🧠 **Enterprise-Level RAG System**
+### 🧠 Nexus AI — Enterprise RAG System
+- Chat with PDFs & documents
+- Semantic search with AI embeddings
+- Multi-document reasoning engine
+- Real-time streaming responses
+- Role-based authentication system  
 
-- 📄 Chat with documents (PDF, internal data)
-- 🔍 Context-aware semantic search
-- 📚 Multi-document reasoning
-- 📌 Source citations with page references
-- ⚡ Real-time streaming responses
-- 🔐 Role-based access system
-
-**Tech Stack:**
-- Frontend: React + Tailwind CSS  
-- Backend: Node.js + Express  
-- Database: MongoDB (Vector Indexing)  
-- AI: RAG (Retrieval-Augmented Generation)
+**Tech Stack:** React, Node.js, Express, MongoDB, RAG, LLM APIs  
+🔗 Repo: https://github.com/Muhammad-Saad-786/Enterprise-Project-SaaS.git 
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 React Portfolio Website
+- Modern animated UI with Tailwind CSS  
+- Fully responsive design (mobile-first)  
+- Smooth scroll & interactive sections  
+- SEO optimized personal branding  
+
+**Tech Stack:** React, Tailwind CSS, Framer Motion  
+🔗 Live: https://www.saadasim.me  
+🔗 Repo: https://github.com/Muhammad-Saad-786/saad-dev-portfolio.git  
+
+---
+
+### 💰 Personal Finance Manager App
+- Track income & expenses in real-time  
+- Dashboard analytics with charts  
+- Category-based budgeting system  
+- Local storage / backend-ready architecture  
+
+**Tech Stack:** React, Node.js, Chart.js, MongoDB  
+🔗 Repo: https://github.com/Muhammad-Saad-786/Personal-Finance-Management.git  
+
+---
+
+### 🎨 AI Image Generator App
+- Generate images using Hugging Face API  
+- Prompt-based AI image creation  
+- Download & save generated images  
+- Clean modern UI with React  
+
+**Tech Stack:** React, Hugging Face API, Tailwind CSS  
+🔗 Repo: https://github.com/Muhammad-Saad-786/Ai-Image-Gen.git  
+
+---
+
+### 🌐 TechVerse Platform
+- Multi-page tech ecosystem website  
+- Animated UI components  
+- Service showcasing system  
+- Scalable frontend architecture  
+
+**Tech Stack:** React, Tailwind CSS, JavaScript  
+🔗 Repo: https://github.com/Muhammad-Saad-786/Red-Pill-Coders-Hackathon-Submission.git  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,nextjs,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,redux,vercel,figma,vscode," />
 
 </p>
 
